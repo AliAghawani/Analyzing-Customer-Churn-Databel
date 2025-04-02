@@ -28,7 +28,9 @@ The project includes an Excel Dashboard (located in the Overview sheet) that vis
 
 📊 Breakdown of churn reasons
 
-📂 Project Files
+🔢Table Matrix displaying Churn Rate by State and International Plan
+
+**📂 Project Files**:
 
 📂 Analyzing Customer Churn for Databel.xlsx → Contains the dataset, analysis, and dashboard.
 
