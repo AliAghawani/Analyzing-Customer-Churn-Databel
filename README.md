@@ -36,7 +36,7 @@ The project includes an Excel Dashboard (located in the Overview sheet) that vis
 
 **🚀 How to Use:**
 
-1️⃣ Download the Excel file from 
+1️⃣ Download the Excel file 
 
 2️⃣ Open the Excel file and navigate to the Overview sheet for a high-level summary.
 
