@@ -31,11 +31,7 @@ The project includes an Excel Dashboard (located in the Overview sheet) that vis
 
 🔢Table Matrix displaying Churn Rate by State and International Plan
 
-**📂 Project Files**:
 
-📂 Analyzing Customer Churn for Databel.xlsx → Contains the dataset, analysis, and dashboard.
-
-📜 README.md → This documentation file.
 
 **📥 Download the Dataset:**
 
@@ -45,11 +41,13 @@ The project includes an Excel Dashboard (located in the Overview sheet) that vis
 
 1️⃣ Download the Excel file from the link above.
 
-2️⃣ Open the file in Excel.
+2️⃣ Open the Excel file and navigate to the Overview sheet for a high-level summary.
 
-3️⃣ Navigate to the Overview sheet to explore the key findings.
+3️⃣ Explore the Databel - Aggregate, Churn Analysis, Databel - Customer and Customer Pivots sheets for deeper insights.
 
 4️⃣ Analyze the Churn Analysis and Customer Pivots sheets for deeper insights.
+
+This project highlights my data analysis skills, data visualization expertise, and ability to deliver actionable insights using Excel dashboards.
 
 **📌 Author:**
 
