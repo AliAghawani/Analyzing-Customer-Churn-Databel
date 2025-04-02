@@ -26,6 +26,7 @@ The project includes an Excel Dashboard (located in the Overview sheet) that vis
 📊 Breakdown of churn reasons
 
 📂 Project Files
+
 📂 Analyzing Customer Churn for Databel.xlsx → Contains the dataset, analysis, and dashboard.
 📜 README.md → This documentation file.
 
@@ -33,11 +34,17 @@ The project includes an Excel Dashboard (located in the Overview sheet) that vis
 [Click here to download the dataset](https://drive.google.com/uc?export=download&id=1VaGuaYfOj2BxTavNnrAG-_RGLlHMV9Ix)
 
 🚀 How to Use
+
 1️⃣ Download the Excel file from the link above.
+
 2️⃣ Open the file in Excel.
+
 3️⃣ Navigate to the Overview sheet to explore the key findings.
+
 4️⃣ Analyze the Churn Analysis and Customer Pivots sheets for deeper insights.
 
 📌 Author
+
 👤 Ali Aghawani
+
 📧 Email: aliaghawani215@gmail.com
