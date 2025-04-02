@@ -16,6 +16,7 @@ Main Reasons for Churn:
 
 📊 Dashboard
 
+
 The project includes an Excel Dashboard (located in the Overview sheet) that visually represents:
 📈 Total Customers vs. Churned Customers
 
