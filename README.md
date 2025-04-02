@@ -16,6 +16,7 @@ Main Reasons for Churn:
 ✅ Better Devices provided by competitors
 
 
+
 **📊 Dashboard:**
 
 
@@ -33,11 +34,11 @@ The project includes an Excel Dashboard (located in the Overview sheet) that vis
 
 📜 README.md → This documentation file.
 
-📥 Download the Dataset
+**📥 Download the Dataset:**
 
 🔗[Click here to download the dataset](https://drive.google.com/uc?export=download&id=1VaGuaYfOj2BxTavNnrAG-_RGLlHMV9Ix)
 
-🚀 How to Use:
+**🚀 How to Use:**
 
 1️⃣ Download the Excel file from the link above.
 
@@ -47,7 +48,7 @@ The project includes an Excel Dashboard (located in the Overview sheet) that vis
 
 4️⃣ Analyze the Churn Analysis and Customer Pivots sheets for deeper insights.
 
-📌 Author:
+**📌 Author:**
 
 👤 Ali Aghawani
 
