@@ -11,6 +11,7 @@ Churn Rate: 27% (~1,796 customers left the company)
 Main Reasons for Churn:
 
 ✅ Better Offers from competitors
+
 ✅ Better Devices provided by competitors
 
 📊 Dashboard
