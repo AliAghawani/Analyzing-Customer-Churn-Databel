@@ -18,6 +18,7 @@ Main Reasons for Churn:
 
 
 The project includes an Excel Dashboard (located in the Overview sheet) that visually represents:
+
 📈 Total Customers vs. Churned Customers
 
 📉 Churn Rate Analysis
